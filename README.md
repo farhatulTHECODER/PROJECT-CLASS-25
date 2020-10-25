@@ -1,2 +1,2 @@
-# PROJECT-CLASS-25
-PROJECT CLASS-25
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
